@@ -4,6 +4,6 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-  cout << "FUCK!" << endl;
+  cout << "I think things are good!" << endl;
   return 1;
 }
